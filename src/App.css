@@ -1,0 +1,17 @@
+a{
+  text-decoration: none;
+}
+
+input::placeholder{
+  color: black!important;
+}
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+td{
+  padding:6px 0px!important
+}
